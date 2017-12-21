@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--DataTable: -->
+<DataTable TableName="" CountOfRows="9" CountOfColumns="8">
+  <ClomunName Column0="AntennaHeight" Column1="AntennaDirection" Column2="AntennaMechanicalDownTilt" Column3="AntennaElectricalDownTilt" Column4="NodeBName" Column5="UserNodeBID" Column6="Longitude" Column7="Latitude" />
+  <Row0 Column0="50" Column1="60" Column2="3" Column3="0" Column4="国际会议中心" Column5="1" Column6="116.396111" Column7="39.9875" />
+  <Row1 Column0="50" Column1="180" Column2="3" Column3="0" Column4="国际会议中心" Column5="1" Column6="116.396111" Column7="39.9875" />
+  <Row2 Column0="50" Column1="300" Column2="7" Column3="0" Column4="国际会议中心" Column5="1" Column6="116.396111" Column7="39.9875" />
+  <Row3 Column0="50" Column1="0" Column2="3" Column3="0" Column4="社科院" Column5="1" Column6="116.378889" Column7="39.986944" />
+  <Row4 Column0="50" Column1="120" Column2="3" Column3="0" Column4="社科院" Column5="1" Column6="116.378889" Column7="39.986944" />
+  <Row5 Column0="50" Column1="240" Column2="3" Column3="0" Column4="社科院" Column5="1" Column6="116.378889" Column7="39.986944" />
+  <Row6 Column0="50" Column1="60" Column2="3" Column3="0" Column4="太极大厦" Column5="1" Column6="116.367778" Column7="39.9875" />
+  <Row7 Column0="50" Column1="180" Column2="7" Column3="0" Column4="太极大厦" Column5="1" Column6="116.367778" Column7="39.9875" />
+  <Row8 Column0="50" Column1="300" Column2="3" Column3="0" Column4="太极大厦" Column5="1" Column6="116.367778" Column7="39.9875" />
+</DataTable>
